@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khám phá ReaL Madrid</title>
+</head>
+<body>
+    <header>
+        <h1>Information about Real Madrid</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Outstanding features</h2>
+            <ul>
+                <li>Is the football team known as the royal football team of Spain.</li>
+                <li>Also known as the White Vultures.</li>
+                <li>Has 15 UEFA Champions League trophies and is the number 1 team in the world.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Một số hình ảnh về Real Madrid</h2>
+            <figure>
+                <img src="images/real1.jpg" alt="Đội hình Real Madrid" width="300">
+                <figcaption>Đội hình 11 cầu thủ Real Madrid</figcaption>
+              </figure>
+              
+              <figure>
+                <img src="images/real2.webp" alt="Real Madrid vô địch C1 lần thứ 14" width="300">
+                <figcaption>Real Madrid nâng cúp C1 lần thứ 14</figcaption>
+              </figure>
+              
+              <figure>
+                <img src="images/real3.webp" alt="Real Madrid vô địch C1 lần thứ 15" width="300">
+                <figcaption>Real Madrid ăn mừng chức vô địch C1 lần thứ 15</figcaption>
+              </figure>
+        </section>
+
+        <section>
+            <h2>Learn more at</h2>
+            <p>Read more at
+                <a href="https://www.bing.com/ck/a?!&&p=bfa7f0b024a83c1d7c9c111b21712c546e5069e0099e6a20dacdb0f21d8e90c5JmltdHM9MTc1NzcyMTYwMA&ptn=3&ver=2&hsh=4&fclid=258ef23f-7d9d-6226-3997-e42d7cfb636d&psq=Real+Madrid+wikipedia&u=a1aHR0cHM6Ly92aS53aWtpcGVkaWEub3JnL3dpa2kvUmVhbF9NYWRyaWRfQ0Y&ntb=1" target="_blank" rel="noopener noreferrer">
+                Real Madrid CF-Wikipedia
+                </a>
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Information about Real Madrid</p>
+    </footer>
+</body>
+</html>
